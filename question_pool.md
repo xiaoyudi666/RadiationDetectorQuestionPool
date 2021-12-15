@@ -625,6 +625,7 @@
 **讨论**：
 
 - 坪曲线纵轴标注的是 "n"，为计数率。
+- 答案正文中所述 <img src="https://render.githubusercontent.com/render/math?math=V_s"> 为图中 <img src="https://render.githubusercontent.com/render/math?math=V_\alpha">，即坪曲线与横轴交点；<img src="https://render.githubusercontent.com/render/math?math=V_1"> 为图中 <img src="https://render.githubusercontent.com/render/math?math=V_p">；<img src="https://render.githubusercontent.com/render/math?math=V_2"> 图中未标注，为横轴 1300 右侧垂线与横轴交点处。<img src="https://render.githubusercontent.com/render/math?math=V_s">、<img src="https://render.githubusercontent.com/render/math?math=V_1">、<img src="https://render.githubusercontent.com/render/math?math=V_2"> 叫法来自《核辐射探测器》一书。
 ------
 
 21. 一个金硅面垒探测器 <img src="https://render.githubusercontent.com/render/math?math=\rho = 1000\Omega \cdot \text{cm}">，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}">，灵敏区直径 <img src="https://render.githubusercontent.com/render/math?math=\varphi = 20\text{mm}">，试求灵敏区厚度和结电容。
