@@ -624,6 +624,7 @@
 
 **讨论**：
 
+- 坪曲线纵轴标注的是 "n"，为计数率。
 ------
 
 21. 一个金硅面垒探测器 <img src="https://render.githubusercontent.com/render/math?math=\rho = 1000\Omega \cdot \text{cm}">，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}">，灵敏区直径 <img src="https://render.githubusercontent.com/render/math?math=\varphi = 20\text{mm}">，试求灵敏区厚度和结电容。
