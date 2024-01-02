@@ -48,7 +48,7 @@
 
 上面 “不需要任何的 Markdown 基础” 当然不是骗人的，但若你想写数学公式，可能得了解一下相关 Markdown 语法。而且，实际上只需了解 Markdown （Github） 插入数学公式的方法这一点。
 
-在标准 Markdown 语法中，把 “$” 当括号将 LaTeX 格式的数学公式 “括” 起来即可。不过，Github 不支持此特性，我们必须使用一些额外的手段。若需在 Github 的 Markdown 预览里插入公式，将 LaTeX 格式的公式放在 `<img src="https://render.githubusercontent.com/render/math?math=">` 这一链接里的等号之后即可。这样，就以图片形式插入了对应的数学公式。例如，文本 $$\pi \neq 0$$ 在预览中会被替换为 <img src="https://render.githubusercontent.com/render/math?math=\pi \neq 0">。
+在标准 Markdown 语法中，把 “$” 当括号将 LaTeX 格式的数学公式 “括” 起来即可。不过，Github 不支持此特性，我们必须使用一些额外的手段。若需在 Github 的 Markdown 预览里插入公式，将 LaTeX 格式的公式放在 `<img src="https://render.githubusercontent.com/render/math?math=">` 这一链接里的等号之后即可。这样，就以图片形式插入了对应的数学公式。例如，文本 $\pi \neq 0$ 在预览中会被替换为 <img src="https://render.githubusercontent.com/render/math?math=\pi \neq 0">。
 
 顺便介绍一下，`**示例文本**`（**示例文本**） 用两个星号 “`**`” 将内容 “括” 起来代表加粗。有兴趣的同学可以直接查阅 [Github 官方的格式语法指南](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 
