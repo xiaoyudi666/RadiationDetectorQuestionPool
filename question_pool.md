@@ -22,7 +22,7 @@
 |   | 液体闪烁体  |  硅面垒探测器  |
 | 电磁辐射  |  HPGe 探测器  |  G-M 计数管  |
 |   | NaI(Tl)  |    |
-| 中子  | <img src="https://render.githubusercontent.com/render/math?math=\text{BF}_3"> 正比计数管  |  核乳胶  |
+| 中子  | $text{BF}_3$ 正比计数管  |  核乳胶  |
 |   | 液体闪烁体  |    |
 
 **来源**：
@@ -194,7 +194,7 @@
 ------
 
 6. 简述带电粒子与靶原子碰撞的一般行为包括哪些，Bether-Block 公式
-（<img src="https://render.githubusercontent.com/render/math?math=(-\frac{dE}{dx})_e = \frac{4 \pi z^2 e^4 NZ}{m_0 v^2}[\ln{(\frac{2m_0 v^2}{I})%2B\ln\frac{1}{1 - \beta^2}-\beta^2-\frac{C}{Z}}]">）
+（<img src="https://render.githubusercontent.com/render/math?math=(-\frac{dE}{dx})_e = \frac{4 \pi z^2 e^4 NZ}{m_0 v^2}[\ln{(\frac{2m_0 v^2}{I})%2B\ln\frac{1}{1 - \beta^2}-\beta^2-\frac{C}{Z}}]$）
 中各项的物理意义。为什么 dE/dx~E 曲线有极大值出现？重带电粒子阻止本领与粒子能量的关系曲线，并简述曲线各部分对应的效应，和对其描述的理论。
 
 **答案正文**：
@@ -208,15 +208,15 @@
 
 (2) Bether-Block 公式中各项的物理意义
 
-- 公式左边的 <img src="https://render.githubusercontent.com/render/math?math=-\frac{dE}{dx}"> 为重带电粒子的电离能量损失率，即重带电粒子在通过单位长度路径时的电离能量损失
-- <img src="https://render.githubusercontent.com/render/math?math=z">、<img src="https://render.githubusercontent.com/render/math?math=v"> 分别为入射带电粒子的电荷数和速度。该项表明，重带电粒子的能量损失率和入射粒子 <img src="https://render.githubusercontent.com/render/math?math=z^2"> 成正比，和 <img src="https://render.githubusercontent.com/render/math?math=v^2"> 成反比。入射粒子电荷数越高、速度越慢其能量损失得越快。另外，公式不含入射粒子的质量 <img src="https://render.githubusercontent.com/render/math?math=m">，说明电离能量损失率和入射粒子的质量无关。
-- <img src="https://render.githubusercontent.com/render/math?math=NZ"> 分别为靶核的数密度及靶核的原子序数。该项表明，重带电粒子的电离能量损失率与靶物质的 <img src="https://render.githubusercontent.com/render/math?math=NZ"> 成正比，原子序数高、密度大的靶物质阻止本领强。
-- <img src="https://render.githubusercontent.com/render/math?math=\ln\frac{1}{1 - \beta^2}-\beta^2"> 为相对论修正项
-- <img src="https://render.githubusercontent.com/render/math?math=-\frac{C}{Z}"> 为壳效应修正项，其中 <img src="https://render.githubusercontent.com/render/math?math=C=C_K %2B C_L  %2B C_M %2B \cdots">。壳效应修正项在入射粒子速度低时比较重要
-- <img src="https://render.githubusercontent.com/render/math?math=e">、<img src="https://render.githubusercontent.com/render/math?math=m_0"> 分别为电子的电荷和静止质量
-- <img src="https://render.githubusercontent.com/render/math?math=c"> 为光速
-- <img src="https://render.githubusercontent.com/render/math?math=\beta = \frac{v}{c}">
-- <img src="https://render.githubusercontent.com/render/math?math=I"> 为靶原子的平均电离电位，即靶原子的平均激发和电离能
+- 公式左边的 <img src="https://render.githubusercontent.com/render/math?math=-\frac{dE}{dx}$ 为重带电粒子的电离能量损失率，即重带电粒子在通过单位长度路径时的电离能量损失
+- <img src="https://render.githubusercontent.com/render/math?math=z$、<img src="https://render.githubusercontent.com/render/math?math=v$ 分别为入射带电粒子的电荷数和速度。该项表明，重带电粒子的能量损失率和入射粒子 <img src="https://render.githubusercontent.com/render/math?math=z^2$ 成正比，和 <img src="https://render.githubusercontent.com/render/math?math=v^2$ 成反比。入射粒子电荷数越高、速度越慢其能量损失得越快。另外，公式不含入射粒子的质量 <img src="https://render.githubusercontent.com/render/math?math=m$，说明电离能量损失率和入射粒子的质量无关。
+- <img src="https://render.githubusercontent.com/render/math?math=NZ$ 分别为靶核的数密度及靶核的原子序数。该项表明，重带电粒子的电离能量损失率与靶物质的 <img src="https://render.githubusercontent.com/render/math?math=NZ$ 成正比，原子序数高、密度大的靶物质阻止本领强。
+- $ln\frac{1}{1 - \beta^2}-\beta^2$ 为相对论修正项
+- <img src="https://render.githubusercontent.com/render/math?math=-\frac{C}{Z}$ 为壳效应修正项，其中 <img src="https://render.githubusercontent.com/render/math?math=C=C_K %2B C_L  %2B C_M %2B \cdots$。壳效应修正项在入射粒子速度低时比较重要
+- <img src="https://render.githubusercontent.com/render/math?math=e$、<img src="https://render.githubusercontent.com/render/math?math=m_0$ 分别为电子的电荷和静止质量
+- <img src="https://render.githubusercontent.com/render/math?math=c$ 为光速
+- $beta = \frac{v}{c}$
+- <img src="https://render.githubusercontent.com/render/math?math=I$ 为靶原子的平均电离电位，即靶原子的平均激发和电离能
 
 (3) 重带电粒子阻止本领与粒子能量的关系曲线，以及曲线各部分对应的效应和对其描述的理论
 
@@ -224,14 +224,14 @@
 
 | 曲线各部分 | 效应 | 理论 |
 | -- | -- | -- |
-| 1 | <img src="https://render.githubusercontent.com/render/math?math=\frac{z^2}{v^2}"> | 核阻止 |
-| 2 | <img src="https://render.githubusercontent.com/render/math?math=v"> | LSS |
-| 3 | <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{v^2}"> | Bether-Block 公式 |
-| 4 | <img src="https://render.githubusercontent.com/render/math?math=\ln\frac{1}{1 - \beta^2}"> | Bether-Block 公式 - 相对论修正 |
+| 1 | $frac{z^2}{v^2}$ | 核阻止 |
+| 2 | <img src="https://render.githubusercontent.com/render/math?math=v$ | LSS |
+| 3 | $frac{1}{v^2}$ | Bether-Block 公式 |
+| 4 | $ln\frac{1}{1 - \beta^2}$ | Bether-Block 公式 - 相对论修正 |
 
 (4) dE/dx~E 曲线出现极大值的原因
 
-- Bether-Block 公式描述的 <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{v^2}"> 效应、与 <img src="https://render.githubusercontent.com/render/math?math=v"> 成正比的 LSS 理论描述的电子俘获以及壳修正共同作用的结果
+- Bether-Block 公式描述的 $frac{1}{v^2}$ 效应、与 <img src="https://render.githubusercontent.com/render/math?math=v$ 成正比的 LSS 理论描述的电子俘获以及壳修正共同作用的结果
 
 **来源**：
 
@@ -260,21 +260,21 @@
 - 光电效应
   - 概念
     - 光子把全部能量转移给内层电子，形成光电子发射出去，光子本身消失。光子能量一部分用于光电子克服束缚的电离能，另一部分作为光电子动能
-  - 总光电截面<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}}">与靶物质核电荷数以及射线能量的数学关系
-    - 非相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx \frac{5}{4}  Z^5 (\frac{1}{hv})^{7/2}">
-    - 相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \gg m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx  \frac{5}{4}  Z^5 \frac{1}{hv}">
+  - 总光电截面$sigma_{\text{ph}}$与靶物质核电荷数以及射线能量的数学关系
+    - 非相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2$)：$sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx \frac{5}{4}  Z^5 (\frac{1}{hv})^{7/2}$
+    - 相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \gg m_0c^2$)：$sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx  \frac{5}{4}  Z^5 \frac{1}{hv}$
 - 康普顿散射
   - 概念
     - 入射光子一部分能量转移给靶核外层电子，使之电离成为反冲电子，而光子的运动方向和能量发生变化，成为散射光子。
   - 康普顿散射截面与靶物质核电荷数以及射线能量的数学关系
-    - 低能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{c}} \xrightarrow{hv \rightarrow 0} \sigma_{\text{Th}} = \frac{8}{3} Z \pi r_0^2">
-    - 高能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{c}} = Z \pi r_0^2 \frac{m_0c^2}{hv} (\ln{\frac{2hv}{m_0c^2}} %2B \frac{1}{2})">
+    - 低能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2$)：$sigma_{\text{c}} \xrightarrow{hv \rightarrow 0} \sigma_{\text{Th}} = \frac{8}{3} Z \pi r_0^2$
+    - 高能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2$)：$sigma_{\text{c}} = Z \pi r_0^2 \frac{m_0c^2}{hv} (\ln{\frac{2hv}{m_0c^2}} %2B \frac{1}{2})$
 - 电子对效应
   - 概念
     - 光子在原子核库伦场作用下，γ 光子转化为一个正负电子对
   - 电子对效应截面与靶物质核电荷数以及射线能量的数学关系
-    - 能量稍大于<img src="https://render.githubusercontent.com/render/math?math=2m_0c^2">：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{p}} \propto Z^2E_\gamma">
-    - 能量远远大于<img src="https://render.githubusercontent.com/render/math?math=2m_0c^2">：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{p}} \propto Z^2 \ln{E_\gamma}">
+    - 能量稍大于<img src="https://render.githubusercontent.com/render/math?math=2m_0c^2$：$sigma_{\text{p}} \propto Z^2E_\gamma$
+    - 能量远远大于<img src="https://render.githubusercontent.com/render/math?math=2m_0c^2$：$sigma_{\text{p}} \propto Z^2 \ln{E_\gamma}$
 
 三种相互作用截面与靶物质核电荷数以及射线能量关系的示意图如下：
 ![三种相互作用截面与靶物质核电荷数以及射线能量关系的示意图](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/5d70befc8ba154bd5a847f005a46f16c02c5eea3/image/%E6%8C%89%E5%85%89%E5%AD%90%E8%83%BD%E9%87%8F%E5%92%8C%E5%8E%9F%E5%AD%90%E5%BA%8F%E6%95%B0%E6%9D%A5%E8%A1%A8%E7%A4%BA%E7%9A%84%E4%B8%89%E7%A7%8D%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E5%8D%A0%E4%BC%98%E5%8A%BF%E7%9A%84%E5%8C%BA%E5%9F%9F.jpg)
@@ -305,14 +305,14 @@
 
 设光子能量被静止自由电子吸收并转化为自由电子的动能，由能量、动量守恒可得反应后电子的能量和动量：
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}E_e' %26= h \nu %2B E_e =h \nu %2B m_e c^2 \\P_e' %26= \frac{h \nu}{c}\end{align*}">
+$begin{align*}E_e' %26= h \nu %2B E_e =h \nu %2B m_e c^2 \\P_e' %26= \frac{h \nu}{c}\end{align*}$
 
 而根据相对论质能公式：
-<img src="https://render.githubusercontent.com/render/math?math=E^2 = p^2c^2 %2B m^2c^4">
+<img src="https://render.githubusercontent.com/render/math?math=E^2 = p^2c^2 %2B m^2c^4$
           
 可以推出显然错误的结果：
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}(h \nu %2B m_e c^2)^2 %26= (h \nu)^2 %2B (m_e c^2)^2 \\h \nu m_e c^2 %26 = 0\end{align*}">
+$begin{align*}(h \nu %2B m_e c^2)^2 %26= (h \nu)^2 %2B (m_e c^2)^2 \\h \nu m_e c^2 %26 = 0\end{align*}$
 
 故光电效应不可能在真空中发生，必须有“第三者”的参与。
 
@@ -322,7 +322,7 @@
 
 ------
 
-9. 分别示意画出 α、单能电子、γ 射线的吸收曲线，并分别解释 <img src="https://render.githubusercontent.com/render/math?math=I/I_0=1/2"> 对应吸收片厚度的意义。
+9. 分别示意画出 α、单能电子、γ 射线的吸收曲线，并分别解释 <img src="https://render.githubusercontent.com/render/math?math=I/I_0=1/2$ 对应吸收片厚度的意义。
 
 **答案正文**：
 
@@ -367,7 +367,7 @@
 
 四种探测和测量中子的方法及其原理如下：
 - 核反应法
-  - 中子与原子核的反应中，中子与<img src="https://render.githubusercontent.com/render/math?math=^3\text{He}"> 、<img src="https://render.githubusercontent.com/render/math?math=^6\text{Li}"> 、<img src="https://render.githubusercontent.com/render/math?math=^{10}\text{B}"> 反应释放的能量较大，反应截面也很大，所以可以通过探测这三种反应来探测中子。
+  - 中子与原子核的反应中，中子与<img src="https://render.githubusercontent.com/render/math?math=^3\text{He}$ 、<img src="https://render.githubusercontent.com/render/math?math=^6\text{Li}$ 、<img src="https://render.githubusercontent.com/render/math?math=^{10}\text{B}$ 反应释放的能量较大，反应截面也很大，所以可以通过探测这三种反应来探测中子。
 - 核反冲法
   - 能量为 E 的入射快中子和原子核发生弹性散射，将一部分能量和动量传递给原子核。中子能量减小、方向改变，原子核受到反冲而以一定的速度运动，被称为 "反冲核"。最后通过 "反冲核" 测量中子。反冲核质量越小获得能量越大，所以一般用氢反冲。
 - 核裂变法
@@ -478,7 +478,7 @@
 - γ 射线进入闪烁体，使闪烁体的原子或分子激发，γ 射线损失能量。
 - 闪烁体中受激发的原子或分子在退激时发射荧光光子。
 - 利用反射物和光导将荧光光子尽可能多地收集到光电倍增管的光阴极上，由于光电效应，光子在光阴极上击出光电子。
-- 光电子在光电倍增管中经多级倍增极倍增，数量由一个增加到 <img src="https://render.githubusercontent.com/render/math?math=10^4 \sim 10^9"> 个。
+- 光电子在光电倍增管中经多级倍增极倍增，数量由一个增加到 <img src="https://render.githubusercontent.com/render/math?math=10^4 \sim 10^9$ 个。
 - 电子流在阳极负载上产生电信号，此信号由电子仪器记录和分析。
 
 **来源**：
@@ -526,7 +526,7 @@
   - 一般来说，体积越大探测效率就越高，但也会受锗单晶的直径、长度及 P 层 (或 P 芯) 的直径等几何因素的限制。
 - N 型高纯锗为什么比 P 型高纯锗具有更低的能量探测下限？
   - 能量探测下限与灵敏区体积和死层厚度有关。灵敏区体积一定时，死层越薄，能量探测下限越低。
-  - P 型高纯锗入射窗是锂扩散层，死层较厚；而 N 型高纯锗的入射窗是 <img src="https://render.githubusercontent.com/render/math?math=\text{B}^%2B"> 离子注入层，死层较薄。所以N 型高纯锗比 P 型高纯锗具有更低的能量探测下限。
+  - P 型高纯锗入射窗是锂扩散层，死层较厚；而 N 型高纯锗的入射窗是 $text{B}^%2B$ 离子注入层，死层较薄。所以N 型高纯锗比 P 型高纯锗具有更低的能量探测下限。
 
 **来源**：
 
@@ -577,13 +577,13 @@
 **讨论**：
 
 ------
-18. 用一台 NaI(Tl) 探测器测量 <img src="https://render.githubusercontent.com/render/math?math=\^{137}\text{Cs}"> 662 keV γ 谱。若已知平均光能产额 <img src="https://render.githubusercontent.com/render/math?math=\bar{Y_{\text{ph}}} = 4.37 \times 10^{4} \text{MeV}^{-1}">，光收集效率 <img src="https://render.githubusercontent.com/render/math?math=F_{\text{ph}} = 0.35">，光电子收集效率 <img src="https://render.githubusercontent.com/render/math?math=g_c \sim 1">，量子效率 <img src="https://render.githubusercontent.com/render/math?math=\bar{Q_{K}} = 0.22">，光电倍增管第一打拿级 <img src="https://render.githubusercontent.com/render/math?math=\delta_1 = 25">，后面各级 <img src="https://render.githubusercontent.com/render/math?math=\delta = 6">，并认为 <img src="https://render.githubusercontent.com/render/math?math=\eta_T = \eta_I = 4\%25">，计算探测器的能量分辨率 <img src="https://render.githubusercontent.com/render/math?math=\eta">。
+18. 用一台 NaI(Tl) 探测器测量 $^{137}\text{Cs}$ 662 keV γ 谱。若已知平均光能产额 $bar{Y_{\text{ph}}} = 4.37 \times 10^{4} \text{MeV}^{-1}$，光收集效率 <img src="https://render.githubusercontent.com/render/math?math=F_{\text{ph}} = 0.35$，光电子收集效率 <img src="https://render.githubusercontent.com/render/math?math=g_c \sim 1$，量子效率 $bar{Q_{K}} = 0.22$，光电倍增管第一打拿级 $delta_1 = 25$，后面各级 $delta = 6$，并认为 $eta_T = \eta_I = 4\%25$，计算探测器的能量分辨率 $eta$。
 
 **答案正文**：
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta_{\text{eM}}^2 %26= \frac{5.56}{\bar{n}_{\text{ph}} F_{\text{ph}} g_c \bar{Q}_{k}}  (1 %2B \frac{\delta}{\delta_1}\frac{1}{\delta-1})\\%26= \frac{5.56}{4.37 \times 10^{-2} \times 6.62 \times 10^{5} \times 0.35 \times 1 \times 0.22}(1 %2B \frac{6}{25}\frac{1}{6-1})\\%26= 0.00262\end{align*}">
+$begin{align*}\eta_{\text{eM}}^2 %26= \frac{5.56}{\bar{n}_{\text{ph}} F_{\text{ph}} g_c \bar{Q}_{k}}  (1 %2B \frac{\delta}{\delta_1}\frac{1}{\delta-1})\\%26= \frac{5.56}{4.37 \times 10^{-2} \times 6.62 \times 10^{5} \times 0.35 \times 1 \times 0.22}(1 %2B \frac{6}{25}\frac{1}{6-1})\\%26= 0.00262\end{align*}$
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta %26= \sqrt{\eta_{\text{eM}}^2 %2B \eta_{T}^2 %2B \eta_{I}^2}\\%26=\sqrt{0.00262 %2B 0.04^2 %2B 0.04^2}\\%26=7.63\%25\end{align*}">
+$begin{align*}\eta %26= \sqrt{\eta_{\text{eM}}^2 %2B \eta_{T}^2 %2B \eta_{I}^2}\\%26=\sqrt{0.00262 %2B 0.04^2 %2B 0.04^2}\\%26=7.63\%25\end{align*}$
 
 **来源**：
 
@@ -593,11 +593,11 @@
 
 ------
 
-19. <img src="https://render.githubusercontent.com/render/math?math=\^{14}\text{C}"> 的 β 射线源发射的 β 粒子的平均能量为 50 keV，活度为 5000 Bq（发射粒子个数/秒），置于充 Ar（<img src="https://render.githubusercontent.com/render/math?math=\omega_\beta = 26.4\text{eV}">）的 4π 电流电离室中，若全部离子能量都消耗在电离室灵敏体积内，求饱和电流。
+19. $^{14}\text{C}$ 的 β 射线源发射的 β 粒子的平均能量为 50 keV，活度为 5000 Bq（发射粒子个数/秒），置于充 Ar（$omega_\beta = 26.4\text{eV}$）的 4π 电流电离室中，若全部离子能量都消耗在电离室灵敏体积内，求饱和电流。
 
 **答案正文**：
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}I_{\text{S}} %26= \frac{E_0}{\omega_\beta} \times n \times q\\%26= \frac{5 \times 10^4}{26.4} \times 5000 \times 1.6 \times 10^{-19}\\%26= 1.515 \times 10^{-12} \text{A}\end{align*}">
+$begin{align*}I_{\text{S}} %26= \frac{E_0}{\omega_\beta} \times n \times q\\%26= \frac{5 \times 10^4}{26.4} \times 5000 \times 1.6 \times 10^{-19}\\%26= 1.515 \times 10^{-12} \text{A}\end{align*}$
 
 **来源**：
 
@@ -613,10 +613,10 @@
 
 **答案正文**：
 
-- 起始电压：起始电压 <img src="https://render.githubusercontent.com/render/math?math=V_s"> 相当于计数管放电的阈电压，当工作电压超过起始电压后才开始有计数。
-- 坪长：当外加电压超过 <img src="https://render.githubusercontent.com/render/math?math=V_1"> 时，随着外加工作电压的增加计数率增加不显著，出现坪区；当外加电压超过 <img src="https://render.githubusercontent.com/render/math?math=V_2">，计数管进入多次或连续放电区，计数率大幅增加，此时猝灭气体大量消耗，计数管极易损坏。<img src="https://render.githubusercontent.com/render/math?math=V_2 - V_1"> 称为坪长。
+- 起始电压：起始电压 <img src="https://render.githubusercontent.com/render/math?math=V_s$ 相当于计数管放电的阈电压，当工作电压超过起始电压后才开始有计数。
+- 坪长：当外加电压超过 <img src="https://render.githubusercontent.com/render/math?math=V_1$ 时，随着外加工作电压的增加计数率增加不显著，出现坪区；当外加电压超过 <img src="https://render.githubusercontent.com/render/math?math=V_2$，计数管进入多次或连续放电区，计数率大幅增加，此时猝灭气体大量消耗，计数管极易损坏。<img src="https://render.githubusercontent.com/render/math?math=V_2 - V_1$ 称为坪长。
 - 坪斜：在坪区，计数率仍随电压升高而增多，表现为坪有坡度，称为坪斜。其出现的主要原因是乱真放电随电压升高而增多，从而造成假计数增多。
-- G-M 计数管的工作电压一般选在坪区的 <img src="https://render.githubusercontent.com/render/math?math=1/3"> 到 <img src="https://render.githubusercontent.com/render/math?math=2/3"> 范围内。
+- G-M 计数管的工作电压一般选在坪区的 <img src="https://render.githubusercontent.com/render/math?math=1/3$ 到 <img src="https://render.githubusercontent.com/render/math?math=2/3$ 范围内。
 
 **来源**：
 
@@ -626,18 +626,18 @@
 **讨论**：
 
 - 坪曲线纵轴标注的是 "n"，为计数率。
-- 答案正文中所述 <img src="https://render.githubusercontent.com/render/math?math=V_s"> 为图中 <img src="https://render.githubusercontent.com/render/math?math=V_\alpha">，即坪曲线与横轴交点；<img src="https://render.githubusercontent.com/render/math?math=V_1"> 为图中 <img src="https://render.githubusercontent.com/render/math?math=V_p">；<img src="https://render.githubusercontent.com/render/math?math=V_2"> 图中未标注，为横轴 1300 右侧垂线与横轴交点处。<img src="https://render.githubusercontent.com/render/math?math=V_s">、<img src="https://render.githubusercontent.com/render/math?math=V_1">、<img src="https://render.githubusercontent.com/render/math?math=V_2"> 叫法来自《核辐射探测器》一书。
+- 答案正文中所述 <img src="https://render.githubusercontent.com/render/math?math=V_s$ 为图中 <img src="https://render.githubusercontent.com/render/math?math=V_\alpha$，即坪曲线与横轴交点；<img src="https://render.githubusercontent.com/render/math?math=V_1$ 为图中 <img src="https://render.githubusercontent.com/render/math?math=V_p$；<img src="https://render.githubusercontent.com/render/math?math=V_2$ 图中未标注，为横轴 1300 右侧垂线与横轴交点处。<img src="https://render.githubusercontent.com/render/math?math=V_s$、<img src="https://render.githubusercontent.com/render/math?math=V_1$、<img src="https://render.githubusercontent.com/render/math?math=V_2$ 叫法来自《核辐射探测器》一书。
 ------
 
-21. 一个金硅面垒探测器 <img src="https://render.githubusercontent.com/render/math?math=\rho = 1000\Omega \cdot \text{cm}">，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}">，灵敏区直径 <img src="https://render.githubusercontent.com/render/math?math=\varphi = 20\text{mm}">，试求灵敏区厚度和结电容。
+21. 一个金硅面垒探测器 $rho = 1000\Omega \cdot \text{cm}$，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}$，灵敏区直径 $varphi = 20\text{mm}$，试求灵敏区厚度和结电容。
 
 **答案正文**：
 
 灵敏区厚度：
-<img src="https://render.githubusercontent.com/render/math?math=W \approx 0.5 \sqrt{\rho u} = 0.5 \sqrt{1000 \times 100} = 158.11 \mu m">
+<img src="https://render.githubusercontent.com/render/math?math=W \approx 0.5 \sqrt{\rho u} = 0.5 \sqrt{1000 \times 100} = 158.11 \mu m$
 
 结电容：
-<img src="https://render.githubusercontent.com/render/math?math=C_d \approx 210  \frac{S}{\sqrt{\rho u}} = 210  \frac{\pi \frac{\phi^2}{4}}{\sqrt{\rho u}} = 210  \frac{100\pi}{\sqrt{1000 \times 100}} = 208.63\text{pF}">
+<img src="https://render.githubusercontent.com/render/math?math=C_d \approx 210  \frac{S}{\sqrt{\rho u}} = 210  \frac{\pi \frac{\phi^2}{4}}{\sqrt{\rho u}} = 210  \frac{100\pi}{\sqrt{1000 \times 100}} = 208.63\text{pF}$
 
 **来源**：
  
@@ -650,13 +650,13 @@
 
 ------
 
-22. 下图为 HPGe 测量得到的 <img src="https://render.githubusercontent.com/render/math?math=\^{24}\text{Na}\text{-}\gamma">  能谱，请给出各部分的名称（不光是线状峰），简述其成峰原理。
+22. 下图为 HPGe 测量得到的 $^{24}\text{Na}\text{-}\gamma$  能谱，请给出各部分的名称（不光是线状峰），简述其成峰原理。
 
 ![HPGe 测量得24Na-γ能谱](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/5dff65e80e1d37e6693716128b4fdbb3a1e24bb5/image/24Na%20%E8%B0%B1.png)
 
 **答案正文**：
 
-- 1368 keV 和 2754 keV 处是 <img src="https://render.githubusercontent.com/render/math?math=\^{24}\text{Na}"> 的全能峰，入射光子能量全部被探测器吸收形成的。
+- 1368 keV 和 2754 keV 处是 $^{24}\text{Na}$ 的全能峰，入射光子能量全部被探测器吸收形成的。
 - 最左端是 1368 keV 全能峰对应的康普顿坪。一些入射光子与探测器发生康普顿散射后逃逸，只有部分能量被探测器吸收，反冲电子的能量随散射角连续变化，形成康普顿坪。
 - 康普顿坪右端是康普顿边缘。其对应康普顿反冲电子最大能量。
 - 1368 keV 往右两个峰依次是 2754 keV 全能峰对应的双逃逸峰和单逃逸峰。入射光子与探测器发生的电子对效应产生的正电子湮灭时产生的两个能量为 0.511 MeV 的光子，两个湮灭光子全都逃逸对应双逃逸峰，一个逃逸另一个被吸收对应单逃逸峰。
@@ -673,13 +673,13 @@
 
 ------
 
-23. 用 HPGe 探测器测量 1MeV 的 γ 射线，由于电子-空穴对的统计涨落引起的能量展宽是多少？已知：法诺因子 <img src="https://render.githubusercontent.com/render/math?math=F=0.13">，<img src="https://render.githubusercontent.com/render/math?math=\bar{\omega} = 2.9\,\text{eV}">。
+23. 用 HPGe 探测器测量 1MeV 的 γ 射线，由于电子-空穴对的统计涨落引起的能量展宽是多少？已知：法诺因子 <img src="https://render.githubusercontent.com/render/math?math=F=0.13$，$bar{\omega} = 2.9\,\text{eV}$。
 
 **答案正文**：
 
 由于电子-空穴对的统计涨落引起的能量展宽为：
 
-<img src="https://render.githubusercontent.com/render/math?math=\Delta E_\text{FWHM} = 2.355 \sqrt{FE_0\omega} = 2.355 \sqrt{0.13 \times 1 \times 10^{6} \times 2.9} = 1446 \,\text{eV}">
+$Delta E_\text{FWHM} = 2.355 \sqrt{FE_0\omega} = 2.355 \sqrt{0.13 \times 1 \times 10^{6} \times 2.9} = 1446 \,\text{eV}$
 
 **来源**：
  
